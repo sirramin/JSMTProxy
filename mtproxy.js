@@ -246,4 +246,4 @@ net.createServer(function(socket) {
 		}
 	});
 
-}).listen(configObj.port);
+}).listen(process.env.PORT || 8080);
