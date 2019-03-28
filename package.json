@@ -4,7 +4,7 @@
   "description": "[![Telegram Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/JSMTProxy)",
   "main": "mtproxy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node mtproxy.js"
   },
   "repository": {
     "type": "git",
